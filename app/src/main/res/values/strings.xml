@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Schedules</string>
+    <string name="facebook_app_id">137607131130942</string>
+    <string name="fb_login_protocol_scheme">fb137607131130942</string>
+    <string name="api">http://34.121.239.130/</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
